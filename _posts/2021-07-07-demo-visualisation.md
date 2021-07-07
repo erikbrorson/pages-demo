@@ -3,6 +3,7 @@ layout: notebook
 title: "Example post"
 date: 2021-07-07
 ---
+
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
